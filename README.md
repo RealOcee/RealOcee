@@ -5,13 +5,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realocee" alt="realocee"/></a> 
 </p>
 
-- 🔭 I’m currently working on **JS-Fundantmental**
-
-- 🌱 I’m currently learning **Git & JavaScript**
-
-- 👯 I’m looking to collaborate on **Web 3 | Cloud development**
-
-- 💬 Ask me about **HTML, CSS, JS, Git & Cloud Computing**
+< - 🔭 I’m currently working on **JS-Fundantmental**
+<
+< - 🌱 I’m currently learning **Git & JavaScript**
+<
+< - 👯 I’m looking to collaborate on **Web 3 | Cloud development**
+<
+< - 💬 Ask me about **HTML, CSS, JS, Git & Cloud Computing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,8 +23,9 @@
 
 
 
-<p>&nbsp;<img align="center" src="https:"//github-readme-stats.vercel.app/api/top-langs/?username=realocee&layout=compact"/></p>
-  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=realocee&show_icons=true&theme=radical" /></p>
+ <br>
+ <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=realocee&" alt="realocee" /></p>
 
 
