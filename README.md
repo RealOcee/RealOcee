@@ -5,9 +5,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realocee" alt="realocee"/></a> 
 </p>
 
-- 🔭 I’m currently working on **JS-Fundantmental**
+- 🔭 I’m currently working on **JS-vanilla**
 
-- 🌱 I’m currently learning **Git & JavaScript**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👯 I’m looking to collaborate on **Web 3 | Cloud development**
 
