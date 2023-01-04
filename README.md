@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realocee" alt="realocee"/></a> 
 </p>
 
-- 🔭 I’m currently working on **JS-vanilla**
+- 🔭 I’m currently working on **JavaScript**
 
 - 🌱 I’m currently learning **JavaScript**
 
@@ -21,9 +21,4 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=realocee&show_icons=true&theme=radical" /></p>
- <br>
- <br>
- <br>
- <br>
- <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=realocee&" alt="realocee" /></p>
