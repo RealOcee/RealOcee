@@ -1,5 +1,5 @@
-<h1 align="center">Hey there!, I'm Andrew (Ocee) Onaulogho</h1>
-<h3 align="center">Hi! I'm an undergraduate of International Studies and Diplomacy (ISD) passionate about solving problems with code, and I'm always ready to work on projects.</h3>
+<h1 align="center">Hey there 😊!, I'm Andrew (Ocee) Onaulogho</h1>
+<h3 align="center">Hi! I'm an undergraduate of ISD, passionate about solving problems with code, and always ready to work on projects 🐐.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realocee&label=Profile%20views&color=0e75b6&style=plastic" alt="realocee" /> </p>
 
