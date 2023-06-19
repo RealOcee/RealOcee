@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/diplomattechie" target="blank"><img src="https://img.shields.io/twitter/follow/diplomattechie?logo=twitter&style=for-the-badge" alt="diplomattechie" /></a> </p>
 
-- 🔭 I’m currently working on [JS-Basic](https://github.com/RealOcee/js.basic)
+- 🔭 I'm currently working on [JS-Basic](https://github.com/RealOcee/js.basic)
 
 - 🌱 I’m currently learning **JavaScripts**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Git, Linux, JavaScript & Cloud development**
 
-- ⚡ Fun fact **If I'm not writing codes, I'm working on a Social Impact project(SDG), reading a book, listening to podcasts, or watching documentaries.**
+- ⚡ Fun fact **If I'm not writing codes, I'm reading a book, listening to podcasts, or watching documentaries.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
