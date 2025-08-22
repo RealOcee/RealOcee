@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 😊!, I'm Andrew (Ocee) Onaulogho</h1>
-<h3 align="center">Hi! I'm an undergraduate of ISD, passionate about solving problems with code, and always ready to work on projects 🐐.</h3>
+<h3 align="center">Hi! I'm a Cyber-Diplomat | Security Engineer & Analyst | CompTIA Security+ | ISC2 CC, and always ready to work on projects 🐐.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realocee&label=Profile%20views&color=0e75b6&style=plastic" alt="realocee" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Git, Linux, JavaScript & Cloud development**
 
-- ⚡ Fun fact **If I'm not writing codes, I'm reading a book, listening to podcasts, or watching documentaries.**
+- ⚡ Fun fact **If I'm not writing code, I'm reading a book, listening to podcasts, or watching documentaries.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
