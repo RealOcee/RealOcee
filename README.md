@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/diplomattechie" target="blank"><img src="https://img.shields.io/twitter/follow/diplomattechie?logo=twitter&style=for-the-badge" alt="diplomattechie" /></a> </p>
 
-- 🔭 I'm currently working on [JS-Basic](https://github.com/RealOcee/js.basic)
+- 🔭 I'm currently working on Security Solution
 
-- 🌱 I’m currently learning **JavaScripts**
+- 👯 I’m looking to collaborate on **Security Solution & Mentorship**
 
-- 👯 I’m looking to collaborate on **JavaScripts & Cloud development**
+- 💬 Ask me about **Information & Operation Technology, Information & Operation Security & Cloud Security**
 
-- 💬 Ask me about **Git, Linux, JavaScript & Cloud development**
-
-- ⚡ Fun fact **If I'm not writing code, I'm reading a book, listening to podcasts, or watching documentaries.**
+- ⚡ Fun fact **If I'm not working on a solution, I'm reading a book, listening to podcasts, or watching documentaries for a solution.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
