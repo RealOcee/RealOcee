@@ -1,11 +1,6 @@
 <h1 align="center">Hey there 😊!, I'm Andrew (Ocee) Onaulogho</h1>
+
 <h3 align="center">Hi! I'm a Cyber-Diplomat | Security Engineer & Analyst | CompTIA Security+ | ISC2 CC, and always ready to work on projects 🐐.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=realocee&label=Profile%20views&color=0e75b6&style=plastic" alt="realocee" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realocee" alt="realocee" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/diplomattechie" target="blank"><img src="https://img.shields.io/twitter/follow/diplomattechie?logo=twitter&style=for-the-badge" alt="diplomattechie" /></a> </p>
 
 - 🔭 I'm currently working on Security Solution
 
