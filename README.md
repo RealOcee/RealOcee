@@ -1,8 +1,8 @@
-<h1 align="center">Hey there 😊!, I'm Andrew (Ocee) Onaulogho</h1>
+<h1 align="center">Hey there!, I'm Andrew (Ocee) Onaulogho</h1>
 
 <h3 align="center">Hi! I'm a Cyber-Diplomat | Security Engineer & Analyst | CompTIA Security+ | ISC2 CC, and always ready to work on projects 🐐.</h3>
 
-- 🔭 I'm currently working on Security Solution
+- 🔭 I'm currently working on a Security Solution
 
 - 👯 I’m looking to collaborate on **Security Solution & Mentorship**
 
